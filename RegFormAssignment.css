@@ -1,0 +1,23 @@
+
+.Forms{
+    margin: 20px 175px ;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+button{
+    padding: 5px 15px;
+}
+fieldset{
+    font-size: 15px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    background-image:  linear-gradient( rgb(48, 134, 255), rgb(228, 141, 229));
+}
